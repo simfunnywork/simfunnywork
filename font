@@ -1,0 +1,15 @@
+	{
+		"name": "NanumGothic",
+		"ttf": "NanumGothic.ttf",
+		"web": "http://fonts.googleapis.com/earlyaccess/nanumgothic.css"
+	}
+	{
+		"name": "AppleGothic",
+		"ttf": "AppleGothic.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Nobile"
+	}
+	{
+		"name": "Korean",
+		"ttf": "NanumBarunGothic.ttf",
+		"web": "http://fonts.googleapis.com/css?family=Nobile"
+	},
